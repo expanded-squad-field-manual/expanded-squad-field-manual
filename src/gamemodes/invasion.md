@@ -1,6 +1,6 @@
 # Invasion
 
-Invasion is like **Random Advance and Secure**, but instead of both teams being equal in their ability to capture objectives, there is instaed a **Defending** and **Attacking** team.
+Invasion is like **Random Advance and Secure**, but instead of both teams being equal in their ability to capture objectives, there is a **Defending** and **Attacking** team.
 
 The Attackers start with far less tickets than the Defenders, but can gain more tickets by capturing the Defender's objectives. Once a Defenders objective has been captured, the Defenders can no longer recapture that objective, and the next defense objective is revealed for the attackers.
 Attackers can win the match by either capturing the Defender's last point, depleting their tickets to zero, or by depleting the Defending team's tickets to zero via other means.
