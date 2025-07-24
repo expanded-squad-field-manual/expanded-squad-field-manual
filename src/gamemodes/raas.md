@@ -2,7 +2,7 @@
 Random Advance and Secure is the most common gamemode in Squad. In this gamemode, both teams start at their respective
 parts of the map at their uncapturable **Main Objective**, and must capture the first neutral objective to reveal the next objective, and so on.
 
-Most maps have seven objectives total, but some smaller ones have six. Objectives can be predicted on some layers by the direction the known objectives have taken, this is usually
+Most maps have seven objectives total, but some smaller ones have five. Objectives can be predicted on some layers by the direction the known objectives have taken, this is usually
 referred to as a **Lane**. Some Lanes are very predictable on some Layers, and others have lanes which wildly vary.
 
 The objectives until the ones close to the center of the map are usually called **Backcaps**, and the act of capturing them toward the center of the map is called **Back-capping*.
